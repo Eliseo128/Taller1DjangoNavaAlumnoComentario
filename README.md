@@ -9,3 +9,5 @@ Maure
 
 
 https://dbdesigner.page.link/XMv96twtWuCn3RYW9
+
+- - link forms https://django-crispy-forms.readthedocs.io/en/latest/
