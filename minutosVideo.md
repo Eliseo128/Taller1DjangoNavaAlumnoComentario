@@ -36,3 +36,5 @@ urlpatterns = [
 - Min. 40:58  link css href
 - Min. 42:01  ejecutamos servidor
 
+### https://github.com/PAWAR-AKSHAY/design-resources-for-developers.git
+
